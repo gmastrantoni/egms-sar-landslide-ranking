@@ -47,11 +47,11 @@ The methodology was validated on the Lazio Region (Central Italy), identifying 4
 If you use this methodology or code in your research, please cite:
 
 ```bibtex
-@article{marmoni2024automatic,
+@article{marmoni2024,
   title={Automatic ranking of landslide candidate areas at a regional scale using EGMS InSAR data for territorial planning and risk management},
   author={Marmoni, Gian Marco and Antonielli, Benedetta and Caprari, Patrizia and Di Renzo, Maria Elena and Marini, Roberta and Mastrantoni, Giandomenico and Mazzanti, Paolo and Patelli, Davide and Bozzano, Francesca},
-  journal={[Journal Name]},
-  year={2024},
+  journal={[Landslide]},
+  year={2025},
   note={Corresponding author: gianmarco.marmoni@uniroma1.it}
 }
 ```
@@ -82,19 +82,9 @@ This study was conducted within the framework of:
 - RETURN Extended Partnership (European Union Next-GenerationEU, NRRP Mission 4, Component 2, Investment 1.3)
 - ReLUIS 2022-2024 & 2024-2026 Projects
 
-COSMO-SkyMed Product ©ASI - (2022) processed by CERI under license of the Italian Space Agency (ASI).
-
 ## Keywords
 
 EGMS, Automatic selection, landslide candidates, intensity ranking, interferometry, landslide risk, A-DInSAR, territorial planning, risk management
-
-## License
-
-[Add appropriate license information]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
 
 ## Support
 
