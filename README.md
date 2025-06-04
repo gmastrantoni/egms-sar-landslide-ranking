@@ -12,7 +12,7 @@ This repository contains Python scripts implementing the methodology described i
 - **Automated AOI Detection**: Semi-automatic identification of Areas of Interest (AOIs) based on velocity anomalies from A-DInSAR analysis
 - **Multi-criteria Ranking System**: Hazard and risk-oriented ranking combining intensity metrics and exposure factors
 - **Regional Scale Analysis**: Capable of processing extensive areas with thousands of measurement points
-- **Integration Ready**: Compatible with existing landslide inventories (IFFI, PAI) and infrastructure databases
+- **Integration Ready**: Compatible with existing Italian landslide inventories (IFFI, PAI) and infrastructure databases
 
 ## Methodology
 
